@@ -1,7 +1,7 @@
 # code_PCA
 
 In this project we have to program a PCA through four questions that we are asked.
-The data used in this project are `alcool.csv`.
+The data used in this project is `alcool.csv`.
 
 ## The four questions that were asked are
 
