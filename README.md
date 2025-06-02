@@ -5,9 +5,9 @@ The data used in this project is `alcool.csv`.
 
 ## The four questions that were asked are
 
-- Program a `cr` function that centers and reduces an array of data.
+- Program a `cr` function that centres and reduces an array of data.
 
-- Program an `acp` function to perform the following PCA calculations (the reduced centered table will be given as input)
+- Program an `acp` function to perform the following PCA calculations (the reduced centred table will be given as input)
   * calculation of axis-by-axis inertia (in percent) ;
   * variable coordinates on axes (for 3 axes) ;
   * coordinates of individuals on axes (for 3 axes); 
